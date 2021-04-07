@@ -49,6 +49,6 @@ def my_plotter(data1, data2,
 data_1 = sorted([random.randint(0, x) for x in range(0, 100)])
 data_2 = sorted([random.randint(0, x) for x in range(0, 100)])
 
-my_plotter(data_1, data_2, 'green', 'o',
+my_plotter(data_1, data_2, 'green', 'o', x_fontsize=20, y_fontsize=20,
            'A label', 'x_label [m]', 'y_label [s]', 'A title',
            True)
