@@ -8,6 +8,6 @@ Some example of plotting methods are given in this repository:
 - some pie charts (pie_chart.py)
 - a pcolormesh (pcolormesh.py)
 
-A plot helper (plot_helper.py) can be imported as a module to ease plot production (still a lot TODO)
+A plot helper (plot_helper.py) can be imported as a module to ease plot production (still a lot TODO).
 A sandbox (sandbox_plot.py) provides tests using the plot helper as a module
 
